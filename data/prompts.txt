@@ -1,0 +1,13 @@
+"What is the return policy: You can return items within 30 days of purchase, provided they are in their original condition and packaging. Please contact customer support for a return label.",
+"How can I track my order: You can track your order using the tracking number sent to your email. Visit our 'Track Order' page and enter the tracking number for real-time updates.",
+"I was charged twice for my order. What should I do: We’re sorry for the inconvenience. Please contact our billing support team at billing@ecommerce.com with your order details, and we’ll resolve the issue promptly.",
+"Do you ship internationally: Yes, we ship to select international locations. Shipping charges and delivery times vary based on your location. Visit our Shipping Policy page for more details.",
+"Is the XYZ product available in red: The XYZ product is currently available in red, blue, and green. Please select your preferred color on the product page before adding it to your cart.",
+"How can I apply a discount code: You can apply a discount code at checkout. Enter the code in the 'Promo Code' field and click 'Apply' to see the updated total.",
+"Can I cancel my order after placing it: You can cancel your order within 24 hours of placing it. Please visit the 'My Orders' section and select 'Cancel Order' or contact customer support for assistance.",
+"I received a damaged product. What should I do: We’re sorry to hear that. Please email our support team at support@ecommerce.com with pictures of the damaged product and your order details. We’ll assist you with a replacement or refund.",
+"I forgot my password. How can I reset it: Click on 'Forgot Password' on the login page, enter your registered email address, and follow the instructions sent to your email to reset your password.",
+"Do you sell gift cards: Yes, we offer gift cards in various denominations. Visit the 'Gift Cards' section of our website to purchase one.",
+"Can you recommend a laptop under $500: Sure! The ABC Laptop (15-inch, 8GB RAM, 256GB SSD) is a great choice under $500. Visit our Laptops section for more options.",
+"My order is delayed. What can I do: We’re sorry for the delay. Please check the tracking details sent to your email for updates. If the order hasn’t shipped, contact us at support@ecommerce.com for assistance.",
+"Can I get notified when a product is back in stock: Yes, click on the 'Notify Me' button on the product page and enter your email address. We’ll notify you as soon as the product is back in stock."

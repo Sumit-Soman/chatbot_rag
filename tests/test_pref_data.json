@@ -1,0 +1,32 @@
+[
+    {
+        "objective": "API response test for Simple direct query",
+        "input_query": "What is the return policy?",
+        "expected_output": "You can return items within 30 days",
+        "validation_criteria": "Response time should be less than 2 seconds"
+    },
+    {
+        "objective": "API response test for Complex keyword query",
+        "input_query": "below $500 laptops",
+        "expected_output": "The ABC Laptop (15-inch, 8GB RAM, 256GB SSD) is a great choice under $500",
+        "validation_criteria": "Response time should be less than 2 seconds"
+    },
+    {
+        "objective": "Test order tracking information",
+        "input_query": "How can I track my order?",
+        "expected_output": "You can track your order using the tracking number sent to your email.",
+        "validation_criteria": "Response time should be less than 2 seconds"
+    },
+    {
+        "objective": "Complex query input passing 2 different inputs",
+        "input_query": "I received a damaged red XYZ product and want to return it. At the same time, I’d like to be notified when the blue version is back in stock. Can I manage both at once?",
+        "expected_output": "Yes",
+        "validation_criteria": "Response time should be less than 2 seconds"
+    },
+    {
+        "objective": "Complex query input passing 2 feedback",
+        "input_query": "I ordered a red XYZ product, but it arrived damaged. I also want to know if I can exchange it for a blue one instead of getting a refund. Can you explain the process?",
+        "expected_output": "sorry to hear",
+        "validation_criteria": "Response time should be less than 2 seconds"
+    }
+]

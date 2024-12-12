@@ -1,0 +1,62 @@
+[
+  {
+    "objective": "Functionaly: Must return best match",
+    "input_query": "What is the return policy?",
+    "expected_output": "You can return items within 30 days",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Key word search functionality",
+    "input_query": "return policy",
+    "expected_output": "You can return items within 30 days of purchase, provided they are in their original condition and packaging. Please contact customer support for a return label.",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Reverse logic check",
+    "input_query": "I don't know about the return policy.",
+    "expected_output": "30 days of purchase",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Single keyword search functionality",
+    "input_query": "cancel",
+    "expected_output": "You can cancel your order within 24 hours of placing it",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Logic search functionality",
+    "input_query": "order delayed",
+    "expected_output": "We’re sorry for the delay. Please check the tracking details sent to your email for updates.",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Test order tracking information",
+    "input_query": "How can I track my order?",
+    "expected_output": "You can track your order using the tracking number sent to your email.",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Test international shipping details",
+    "input_query": "Do you ship internationally?",
+    "expected_output": "Yes, we ship to select international locations.",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Test Exit functionality with 'quit' messages",
+    "input_query": "quit",
+    "expected_output": "Thank you for visiting. Have a great day!",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Test Exit functionality using 'bye' messages",
+    "input_query": "bye",
+    "expected_output": "Thank you for visiting. Have a great day!",
+    "validation_criteria": "Output should contains expected phrase"
+  },
+  {
+    "objective": "Test unknow knowledge response quality",
+    "input_query": "label missing",
+    "expected_output": "It would be best to contact customer support",
+    "validation_criteria": "Output should contains expected phrase"
+  }
+]
