@@ -3,3 +3,4 @@ __pycache___
 src/__pycache__
 .env
 chatbot
+.DS_Store

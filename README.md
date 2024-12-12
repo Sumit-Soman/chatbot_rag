@@ -1,5 +1,6 @@
 
 # E-Commerce Chatbot Project
+![Chatbot RAG Project](./assets/chatbot.png)
 
 ## Overview
 This project is an advanced Retrieval-Augmented Generation (RAG)-based chatbot designed for e-commerce. The chatbot utilizes LangChain's vector stores and OpenAI's GPT models to provide accurate, context-aware responses to customer queries using a predefined set of prompts stored in `prompts.txt`.
