@@ -5,3 +5,4 @@ langchain-openai
 tiktoken
 pytest
 pytest-html
+load_dotenv
